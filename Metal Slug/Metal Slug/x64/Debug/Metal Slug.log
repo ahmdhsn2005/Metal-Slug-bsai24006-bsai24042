@@ -1,0 +1,75 @@
+﻿  ME.cpp
+C:\Users\opgam\source\repos\Metal Slug\ME.cpp(89,18): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\opgam\source\repos\Metal Slug\ME.cpp(89,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\opgam\source\repos\Metal Slug\ME.cpp(90,22): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\opgam\source\repos\Metal Slug\ME.cpp(90,22): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\opgam\source\repos\Metal Slug\ME.cpp(91,22): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\opgam\source\repos\Metal Slug\ME.cpp(91,22): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\opgam\source\repos\Metal Slug\ME.cpp(92,22): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\opgam\source\repos\Metal Slug\ME.cpp(92,22): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\opgam\source\repos\Metal Slug\ME.cpp(93,22): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\opgam\source\repos\Metal Slug\ME.cpp(93,22): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\opgam\source\repos\Metal Slug\ME.cpp(94,22): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\opgam\source\repos\Metal Slug\ME.cpp(94,22): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\opgam\source\repos\Metal Slug\ME.cpp(95,22): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\opgam\source\repos\Metal Slug\ME.cpp(95,22): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\opgam\source\repos\Metal Slug\ME.cpp(96,23): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\opgam\source\repos\Metal Slug\ME.cpp(96,23): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\opgam\source\repos\Metal Slug\ME.cpp(97,23): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\opgam\source\repos\Metal Slug\ME.cpp(97,23): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\opgam\source\repos\Metal Slug\ME.cpp(98,23): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\opgam\source\repos\Metal Slug\ME.cpp(98,23): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\opgam\source\repos\Metal Slug\ME.cpp(99,23): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\opgam\source\repos\Metal Slug\ME.cpp(99,23): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\opgam\source\repos\Metal Slug\ME.cpp(100,23): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\opgam\source\repos\Metal Slug\ME.cpp(100,23): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\opgam\source\repos\Metal Slug\ME.cpp(101,23): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\opgam\source\repos\Metal Slug\ME.cpp(101,23): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\opgam\source\repos\Metal Slug\ME.cpp(172,31): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\opgam\source\repos\Metal Slug\ME.cpp(174,31): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\opgam\source\repos\Metal Slug\ME.cpp(176,31): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\opgam\source\repos\Metal Slug\ME.cpp(178,31): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\opgam\source\repos\Metal Slug\ME.cpp(180,31): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\opgam\source\repos\Metal Slug\ME.cpp(182,31): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\opgam\source\repos\Metal Slug\ME.cpp(184,31): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\opgam\source\repos\Metal Slug\ME.cpp(186,31): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\opgam\source\repos\Metal Slug\ME.cpp(188,31): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\opgam\source\repos\Metal Slug\ME.cpp(190,31): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\opgam\source\repos\Metal Slug\ME.cpp(192,31): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\opgam\source\repos\Metal Slug\ME.cpp(194,31): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\opgam\source\repos\Metal Slug\ME.cpp(196,31): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\opgam\source\repos\Metal Slug\ME.cpp(254,42): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\opgam\source\repos\Metal Slug\ME.cpp(255,46): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\opgam\source\repos\Metal Slug\ME.cpp(256,47): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\opgam\source\repos\Metal Slug\ME.cpp(304,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\opgam\source\repos\Metal Slug\ME.cpp(304,31): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\opgam\source\repos\Metal Slug\ME.cpp(408,106): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\opgam\source\repos\Metal Slug\ME.cpp(408,82): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\opgam\source\repos\Metal Slug\ME.cpp(410,114): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\opgam\source\repos\Metal Slug\ME.cpp(410,90): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\opgam\source\repos\Metal Slug\ME.cpp(415,79): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\opgam\source\repos\Metal Slug\ME.cpp(415,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\opgam\source\repos\Metal Slug\ME.cpp(417,87): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\opgam\source\repos\Metal Slug\ME.cpp(417,63): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\opgam\source\repos\Metal Slug\ME.cpp(525,53): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\opgam\source\repos\Metal Slug\ME.cpp(525,35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\opgam\source\repos\Metal Slug\ME.cpp(552,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\opgam\source\repos\Metal Slug\ME.cpp(552,33): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\opgam\source\repos\Metal Slug\ME.cpp(569,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\opgam\source\repos\Metal Slug\ME.cpp(569,33): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\opgam\source\repos\Metal Slug\ME.cpp(660,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\opgam\source\repos\Metal Slug\ME.cpp(661,20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\opgam\source\repos\Metal Slug\ME.cpp(662,20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\opgam\source\repos\Metal Slug\ME.cpp(663,20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\opgam\source\repos\Metal Slug\ME.cpp(664,20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\opgam\source\repos\Metal Slug\ME.cpp(665,20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\opgam\source\repos\Metal Slug\ME.cpp(666,20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\opgam\source\repos\Metal Slug\ME.cpp(667,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\opgam\source\repos\Metal Slug\ME.cpp(668,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\opgam\source\repos\Metal Slug\ME.cpp(669,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\opgam\source\repos\Metal Slug\ME.cpp(670,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\opgam\source\repos\Metal Slug\ME.cpp(671,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\opgam\source\repos\Metal Slug\ME.cpp(672,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Metal Slug.vcxproj -> C:\Users\opgam\source\repos\Metal Slug\x64\Debug\Metal Slug.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

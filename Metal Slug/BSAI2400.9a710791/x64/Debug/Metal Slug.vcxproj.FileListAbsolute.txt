@@ -1,0 +1,3 @@
+C:\Users\opgam\source\repos\Metal Slug\x64\Debug\raylib.dll
+C:\Users\opgam\source\repos\Metal Slug\x64\Debug\glfw3.dll
+C:\Users\opgam\source\repos\Metal Slug\BSAI2400.9a710791\x64\Debug\Metal Sl.114569AE.Up2Date
